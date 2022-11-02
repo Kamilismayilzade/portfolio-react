@@ -1,30 +1,13 @@
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# portfolio-react
-=======
-<<<<<<< HEAD
-# Portfolio-with-React-Javascript
-=======
+# Portfolio React Javascript Demo
+## Documentation
+
+Here you can take a look to the Portfolio with React JS. Project designed with colorful pages like: 
+Home, About, Slides(with Animations) and Contact page.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -65,42 +48,27 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Acknowledgements
 
-## Learn More
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Features
 
-### Code Splitting
+- Light/dark mode toggle
+- Live previews
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Screenshots
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Screenshot (48)](https://user-images.githubusercontent.com/84046930/175780576-81889bb1-32b3-49e8-a481-baca05d1226f.png)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Screenshot (49)](https://user-images.githubusercontent.com/84046930/175780739-b2dd90b5-698d-46cd-b501-dc39505e8047.png)
 
-### Deployment
+![Screenshot (50)](https://user-images.githubusercontent.com/84046930/175780762-d6e2141c-9cef-4234-b57e-53bc75199012.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> ee38f0c (Portfolo React)
->>>>>>> fbc35bd (Initial commit)
->>>>>>> 817e324 (my commit 2)
->>>>>>> 630a1a6 (first commit)
->>>>>>> e2ad4c2 (first commit)
->>>>>>> 197a5dd (first commit)
->>>>>>> de8fd5e (first commit)
->>>>>>> c1be162 (my commit)
->>>>>>> 604031a (first commit)
